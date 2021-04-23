@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/frenkiherlambang/penelitian/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+# Pendahuluan Program
+## Judul Program
+## Bantuan
+## Identifikasi Pengguna
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Kendali Siswa
+## Cara untuk mengendalikan
 
-### Markdown
+- ### Tombol
+- ### Menu
+- ### Hyperlink
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Jenis Pengendalian
+ 1. ### Kendali dengan Mouse
+ 2. ### Kendali dengan Keyboard
+# Penyajian Informasi
+## Konsistensi
+## Jenis Penyajian Informasi
+ 3. ### Informasi berupa teks
+ 4. ### Informasi berupa Grafis dan Animasi
+ 5. ### Informasi berupa Video
+ 6. ### Informasi berupa Suara
+ 7. ### Informasi berupa Warna
+# Bantuan
+## Prosedural
+## Informasional
+# Akhir Program
+## Temporal
+## Permanen
+## Jaring Pengaman
+## Kredit
 
-```markdown
-Syntax highlighted code block
+# Metodologi untuk Memfasilitasi Pembelajaran
+## tutorial
+## hypermedia
+## Dril
+## Simulasi
+## Permainan
+## Test
+## Web  
 
-# Header 1
-## Header 2
-### Header 3
+# Faktor-faktor dalam games
+## Tujuan
+## Aturan
+## Kompetisi
+## Tantangan
+## Fantasy
+## Safety
+## Entertainment
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/frenkiherlambang/penelitian/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
